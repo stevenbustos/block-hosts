@@ -1,25 +1,3 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
-#
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
-#
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
-#
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-#
-# For example:
-#
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
-
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
-
 # Add this file to your /etc/hosts to block all
 # of the ad sites, porn and general junk on this
 # list, including Google.
@@ -15797,3 +15775,14 @@
 0.0.0.0 www.zorglist.com
 0.0.0.0 www.ztod.com
 0.0.0.0 www.zzcartoon.com
+
+# Escorts domains
+
+0.0.0.0 lacelestina.co
+0.0.0.0 www.photoprepagos.com
+0.0.0.0 mileroticos.com
+0.0.0.0 co.skokka.com
+0.0.0.0 skokka.com
+0.0.0.0 pasionprepagos.com
+0.0.0.0 www.elsilencio.co
+0.0.0.0 www.erospremium.co
